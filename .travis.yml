@@ -1,7 +1,10 @@
 language: python
 python:
-  - "2.7"
+  - 2.7
 install:
-  - "pip install pytest"
+  - pip install pytest
+  - pip install python-coveralls
 script:
-  - "py.test example.py"
+  - py.test example.py
+after_success:
+  - coveralls

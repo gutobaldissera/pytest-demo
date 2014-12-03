@@ -1,4 +1,5 @@
-
+print 'a'
+print "a"
 def add_numbers(f1, f2):
     return f1 + f2
 

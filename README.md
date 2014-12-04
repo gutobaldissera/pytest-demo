@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/gutobaldissera/pytest-demo.svg?branch=master)](https://travis-ci.org/rbast/pytest-demo/builds) [![Coverage Status](https://coveralls.io/repos/gutobaldissera/pytest-demo/badge.png?branch=master)](https://coveralls.io/r/rbast/pytest-demo?branch=master)
+[![Build Status](https://travis-ci.org/gutobaldissera/pytest-demo.svg?branch=master)](https://travis-ci.org/gutobaldissera/pytest-demo/builds) [![Coverage Status](https://coveralls.io/repos/gutobaldissera/pytest-demo/badge.png?branch=master)](https://coveralls.io/r/gutobaldissera/pytest-demo?branch=master)
 
 pytest-demo
 ===========
